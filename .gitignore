@@ -1,0 +1,10 @@
+.*
+*.class
+!.gitignore
+build
+out
+class
+classes
+log
+*.xml
+tmp
